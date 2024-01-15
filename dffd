@@ -1,0 +1,29 @@
+[33mcommit cdc0a2ee7e071d8e199d1d39bc2900b0622dd6e3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mrockSongs[m[33m)[m
+Author: Ivan Kent Landicho <ivankentmalate.landicho@bicol-u.edu.ph>
+Date:   Mon Jan 15 16:04:21 2024 +0800
+
+    deleted the previous songs, added rock songs
+
+[33mcommit ffb3ffe6aca4be336522ffce0258272c8425327a[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Ivan Kent Landicho <ivankentmalate.landicho@bicol-u.edu.ph>
+Date:   Mon Jan 15 16:01:47 2024 +0800
+
+    add 10 new songs
+
+[33mcommit dce7c9a0a3444041004e7691582bef272d5e23a9[m
+Author: Ivan Kent Landicho <ivankentmalate.landicho@bicol-u.edu.ph>
+Date:   Mon Jan 15 15:40:33 2024 +0800
+
+    add songs and its respective authors
+
+[33mcommit e2b4050273febd553f6645a99e742f380d713325[m[33m ([m[1;32mnewFeature[m[33m)[m
+Author: Ivan Kent Landicho <ivankentmalate.landicho@bicol-u.edu.ph>
+Date:   Mon Jan 15 15:35:55 2024 +0800
+
+    add a style
+
+[33mcommit 61ea98683503d0c26abc8608939c4bf32e49a75f[m
+Author: Ivan Kent Landicho <ivankentmalate.landicho@bicol-u.edu.ph>
+Date:   Mon Jan 15 15:34:32 2024 +0800
+
+    add playlist
